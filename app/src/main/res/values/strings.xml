@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2 Chopin Broadcast</string>
+    <string name="info">Через 7 секунд BroadcastReceiver запустит музыку Шопена</string>
+    <string name="status_waiting">Ожидание 7 секунд…</string>
+</resources>
